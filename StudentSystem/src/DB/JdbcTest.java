@@ -5,8 +5,8 @@ import java.sql.*;
 public class JdbcTest {
 
     private static final String URL = "jdbc:mysql://localhost:3306/studentManagement";
-    private static final String USERNAME = "root";
-    private static final String PASSWORD = "NW0143";
+    private static final String USERNAME = "****";
+    private static final String PASSWORD = "****";
 
     // DB接続、コレクションを取得
     public static Connection getConnection() throws SQLException {
